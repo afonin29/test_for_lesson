@@ -15,3 +15,7 @@ function addDivToPage() {
 
 // Call the function to add the div to the page
 addDivToPage();
+
+function helloWorld() {
+  alert("Hello world");
+}
